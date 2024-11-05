@@ -5,7 +5,7 @@
  1. Pokémon Cards: Displays cards with information on each Pokémon.
  2. Search Functionality: Allows users to search for Pokémon by name.
  3. Responsive Design: Works well across various screen sizes.
- 4. Hosted Online: Link to live website
+ 4. Hosted Online: https://samyakpokemon.netlify.app/
 
 # Technologies Used
  1. React.js
