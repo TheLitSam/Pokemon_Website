@@ -1,0 +1,26 @@
+.loader-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.loader{
+    /* background-color: aquamarine; */
+    width: 7.25rem;
+    height: 7.25rem;
+    border: 0.75rem solid #FFFAFF;
+    border-top: 0.75rem solid #D8315B;
+    border-radius: 50%;
+    animation: spin 1s ease-in-out 0s infinite;
+}
+
+@keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+  
+    to {
+      transform: rotate(360deg);
+    }
+  }
